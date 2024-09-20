@@ -1,4 +1,4 @@
-class Solution {
+class Day4 {
     Node prev = null;
     
     Node bToDLL(Node root) {

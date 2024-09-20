@@ -1,4 +1,4 @@
-class Solution {
+class Day3 {
     void rearrange(ArrayList<Integer> nums) {
         // code here
         ArrayList<Integer> pos = new ArrayList<>();

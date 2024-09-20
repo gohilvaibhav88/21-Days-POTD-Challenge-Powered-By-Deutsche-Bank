@@ -1,4 +1,4 @@
-class Solution
+class Day7
 {
     //Function to check if brackets are balanced or not.
     static boolean ispar(String x)

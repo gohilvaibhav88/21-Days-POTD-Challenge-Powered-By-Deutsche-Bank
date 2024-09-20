@@ -1,4 +1,4 @@
-class Solution {
+class Day1 {
     int getMiddle(Node head) {
         Node slow = head;
         Node fast = head;

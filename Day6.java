@@ -1,4 +1,4 @@
-class Solution {
+class Day6 {
     int getMinDiff(int[] arr, int k) {
         int n = arr.length;
         // Sort the array

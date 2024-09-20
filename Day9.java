@@ -1,4 +1,4 @@
-class Solution {
+class Day9 {
     // Returns count buildings that can see sunlight
     public int countBuildings(int[] height) {
         int max = height[0];

@@ -1,4 +1,4 @@
-class Solution{
+class Day5{
     public static int max(int i , int j){
         if(i > j){
             return i;

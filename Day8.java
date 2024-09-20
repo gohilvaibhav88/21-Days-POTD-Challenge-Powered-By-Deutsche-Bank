@@ -1,4 +1,4 @@
-class Solution {
+class Day8 {
     // Function to reverse words in a given string.
     String reverseWords(String str) {
         String arr[] = str.split("\\.");
