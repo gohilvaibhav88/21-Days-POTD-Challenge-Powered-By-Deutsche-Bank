@@ -1,4 +1,4 @@
-class Solution {
+class Day18 {
     int totalCount(int k, int[] arr) {
     
         int sum =0;
